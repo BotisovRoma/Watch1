@@ -1,0 +1,65 @@
+.wrapper {
+    font-family: "League Spartan", sans-serif;
+    font-style: normal;
+}
+
+.welcome__container {
+    display: flex;
+}
+
+.offer {
+    max-width: 640px;
+    padding-top: 104px;
+}
+
+.offer__model {
+    font-weight: 300;
+    font-size: 24px;
+    color: #161515;
+    margin-bottom: 53px;
+
+}
+
+.title {
+    font-weight: 300;
+    font-size: 250px;
+    line-height: 0.9;
+    margin-bottom: 54px;
+    color: #272727;
+
+
+}
+
+.desc {
+
+    font-size: 32px;
+    line-height: 1.55;
+
+}
+
+.offer__desc {
+    margin-bottom: 61px;
+}
+
+.buy {
+    display: flex;
+
+}
+
+.buy__link {
+    background-color: #161515;
+    color: #fff;
+    font-size: 32px;
+    padding: 26px 74px;
+    display: inline-block;
+
+}
+
+.buy__price {
+    box-shadow: 0 0 28px 0 rgba(214, 214, 214, 0.25);
+    background-color: #fff;
+    display: inline-flex;
+    align-items: center;
+    font-size: 20px;
+
+}
